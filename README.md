@@ -1,4 +1,6 @@
   # Python Assignment – HackerRank Task Completion
+
+  ## HackerRank Profile
   [Click here to view my HackerRank](https://www.hackerrank.com/profile/chandana_chandr3)
 
   ## Topics Covered
