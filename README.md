@@ -1,5 +1,5 @@
   # Python Assignment – HackerRank Task Completion
-  [Click here to view my HackerRank]_(https://www.hackerrank.com/profile/chandana_chandr3)
+  [Click here to view my HackerRank](https://www.hackerrank.com/profile/chandana_chandr3)
 
   ## Topics Covered
 - Calendar_Module.py
